@@ -3,7 +3,7 @@
 Dodge to destroy as many rockets as possible and collect coins as long as you can.
 Collecting coins will allow you to unlock more ships
 
-Made using a super awesome fantasy console [called pico-8](https://www.lexaloffle.com/pico-8.php)
+Made using a super awesome fantasy console called [pico-8](https://www.lexaloffle.com/pico-8.php)
 
 You'll need to buy pico-8 to run and edit the PNG catridge.
 
